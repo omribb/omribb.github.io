@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.e19ae6de.chunk.js",
-    "main.js.map": "/static/js/main.e19ae6de.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f93280d2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f93280d2.js.map",
-    "static/js/2.bfbdcab6.chunk.js": "/static/js/2.bfbdcab6.chunk.js",
-    "static/js/2.bfbdcab6.chunk.js.map": "/static/js/2.bfbdcab6.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7367249fdba0261354cd0afda734d96d.js": "/precache-manifest.7367249fdba0261354cd0afda734d96d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.bfbdcab6.chunk.js.LICENSE.txt": "/static/js/2.bfbdcab6.chunk.js.LICENSE.txt"
+    "main.js": "/random-emoji/static/js/main.e19ae6de.chunk.js",
+    "main.js.map": "/random-emoji/static/js/main.e19ae6de.chunk.js.map",
+    "runtime-main.js": "/random-emoji/static/js/runtime-main.1a59528b.js",
+    "runtime-main.js.map": "/random-emoji/static/js/runtime-main.1a59528b.js.map",
+    "static/js/2.9342abcc.chunk.js": "/random-emoji/static/js/2.9342abcc.chunk.js",
+    "static/js/2.9342abcc.chunk.js.map": "/random-emoji/static/js/2.9342abcc.chunk.js.map",
+    "index.html": "/random-emoji/index.html",
+    "precache-manifest.1a7f4545aebcfdc7c3a878099ace1fa3.js": "/random-emoji/precache-manifest.1a7f4545aebcfdc7c3a878099ace1fa3.js",
+    "service-worker.js": "/random-emoji/service-worker.js",
+    "static/js/2.9342abcc.chunk.js.LICENSE.txt": "/random-emoji/static/js/2.9342abcc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f93280d2.js",
-    "static/js/2.bfbdcab6.chunk.js",
+    "static/js/runtime-main.1a59528b.js",
+    "static/js/2.9342abcc.chunk.js",
     "static/js/main.e19ae6de.chunk.js"
   ]
 }
